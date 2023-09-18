@@ -1,0 +1,112 @@
+.boton-container{
+    /*hacer que ocupe el 50% del contenedor*/
+     width: 50%;
+     /*colocar el boton en el centro*/
+     margin: 0 auto;
+ 
+     
+     display: flex;
+     flex-direction: column;
+     justify-content: center; /* Centra verticalmente los elementos en el contenedor */
+     align-items: center; /* Centra horizontalmente los elementos en el contenedor */
+     height: 70%; /* Aseg*/
+     width: auto;
+ }
+ .fila_1{
+     height: 100px; /* Aseg*/
+     
+ }
+ 
+ 
+ 
+ 
+ .uno{
+     background-color: #acacac;
+     width: 18%;
+     height: 18%;
+     border-radius: 20%;
+     margin: 10px;
+ }
+ .dos{
+     background-color: #acacac;
+     width: 18%;
+     height: 18%;
+     border-radius: 20%;
+     margin: 10px;
+ }
+ .num{
+     width: 50%;
+     height:50%;
+ }
+ .tres{
+     background-color: #acacac;
+     width: 18%;
+     height: 18%;
+     border-radius: 20%;
+     margin: 10px;
+ }
+ .cuatro{
+     background-color: #acacac;
+     width: 18%;
+     height: 18%;
+     border-radius: 20%;
+     margin: 10px;
+ }
+ .cinco{
+     background-color: #acacac;
+     width: 18%;
+     height: 18%;
+     border-radius: 20%;
+     margin: 10px;
+ }
+ .seis{
+     background-color: #acacac;
+     width: 18%;
+     height: 18%;
+     border-radius: 20%;
+     margin: 10px;
+ }
+ .siete{
+     background-color: #acacac;
+     width: 18%;
+     height: 18%;
+     border-radius: 20%;
+     margin: 10px;
+ }
+ .ocho{
+     background-color: #acacac;
+     width: 18%;
+     height: 18%;
+     border-radius: 20%;
+     margin: 10px;
+ }
+ .nueve{
+     background-color: #acacac;
+     width: 18%;
+     height: 18%;
+     border-radius: 20%;
+     margin: 10px;
+ }
+ .cero{
+     background-color: #acacac;
+     width: 18%;
+     height: 18%;
+     border-radius: 20%;
+     
+ }
+ 
+ .Resta{
+     width: 25%;
+     height: 100px;
+     border-radius: 20%;
+     margin: 10px;
+ }
+ 
+ 
+ 
+ .Multiplicacion{
+     width: 25%;
+     height: 100px;
+     border-radius: 20%;
+     margin: 10px;
+ }
